@@ -1,6 +1,6 @@
 ## Adafruit Low profile microSD to SD Adapter PCB (discontinued)
 <a href="http://www.adafruit.com/products/966"><img src="assets/image.jpg?raw=true" width="500px"><br/>
-Click here to purchase one from the Adafruit shop
+Click here to view on the Adafruit website
 </a>
 
 PCB files for the Adafruit Low-profile microSD to SD Adapter. Format is EagleCAD schematic and board layout
